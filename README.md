@@ -1,4 +1,4 @@
-# QR Menu - Create a contactless QR menu online
+# QR Menu - Create a contactless QR menu
  ✳️ No need to reprint the menu to change prices or items. <br />
  ✳️ Let your customers scan a QR code and see your menu with their phone <br />
  ✳️ Reduce the spread of the Coronavirus by removing physical menus <br />
