@@ -1,0 +1,41 @@
+{
+    "users": [
+        {
+            "email": "string",
+            "password": "string"
+        }
+    ],
+    "restaurant": {
+        "name": "string",
+        "email": "string",
+        "phoneNumber": "string",
+        "country": "string",
+        "address": "string",
+        "currency": "string",
+        "description": "string"
+    },
+    "categories": [
+        {
+            "name": "string"
+        }
+    ],
+    "menuItem": [
+        {
+            "name": "string",
+            "description": "string",
+            "price": "number",
+            "unit": "string",
+            "category": {},
+            "variations": [
+                {
+                    "name": "string",
+                    "price": "number"
+                }
+            ],
+            "attach": {
+                "name": "string",
+                "price": "number"
+            }
+        }
+    ]
+}
